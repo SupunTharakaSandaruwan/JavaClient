@@ -25,7 +25,7 @@ Copy the generated JAR file from the target/ directory to a separate location.
 ### 5. Create Properties File
 Create a properties file named config.properties under the same location where the .jar file is located and insied the above properties file, define the following details.
 
--- Define File Upload Path as follows
+
  1. Edit the config.properties file and define the file upload path:
 
    ```
