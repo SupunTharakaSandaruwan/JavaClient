@@ -1,6 +1,6 @@
-# File Upload BE Server
+# Java client
 
-This repository contains the backend server for file upload functionality.
+This repository contains a java client which can be used to terminate the connection with BE based on the response bytes received by the client
 
 ## Getting Started
 ### 1. Prerequisites
